@@ -1,14 +1,14 @@
 {
-  "name": "mv.videoevent.js",
-  "main": "mv.videoevent.js",
+  "name": "mv.visibility.js",
+  "main": "mv.visibility.js",
   "version": "0.0.1",
-  "homepage": "https://github.com/openjavascript/mv.videoevent.js",
+  "homepage": "https://github.com/openjavascript/mv.jquery.visibility.js.git",
   "authors": [
     "qiushaowei <qiushaowei@360.cn>"
   ],
   "description": "",
   "keywords": [
-    "mv.videoevent.js"
+    "mv.visibility.js"
   ],
   "license": "MIT",
   "dependencies": {
