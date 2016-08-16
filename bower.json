@@ -1,7 +1,7 @@
 {
   "name": "mv.visibility.js",
   "main": "mv.visibility.js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "https://github.com/openjavascript/mv.jquery.visibility.js.git",
   "authors": [
     "qiushaowei <qiushaowei@360.cn>"
